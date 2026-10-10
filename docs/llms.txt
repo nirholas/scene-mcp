@@ -1,0 +1,20 @@
+# @three-ws/scene-mcp
+
+> Speak 3D worlds into being from any AI agent. compose_scene turns one sentence into a placed diorama plan (mood, palette, and single-object forge prompts) over the live three.ws pipeline; build_world runs the whole pipeline server-side in one call; export_scene merges a forged diorama into one glTF binary with selectable nodes; get_scene and list_scenes read the saved gallery. No key, no signer, no payment.
+
+@three-ws/scene-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/scene-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/scene-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/scene-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/scene-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/scene-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/scene-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/scene-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/scene-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fscene-mcp)

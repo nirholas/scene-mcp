@@ -1,0 +1,13 @@
+{
+  "name": "scene-mcp",
+  "owner": {"name": "nirholas"},
+  "description": "Keyless MCP server that turns a sentence into a 3D world.",
+  "plugins": [
+    {
+      "name": "scene-mcp",
+      "source": "./",
+      "description": "Compose, forge, export and browse 3D dioramas through the three.ws diorama pipeline.",
+      "tags": ["mcp", "3d", "diorama"]
+    }
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "scene": {
-      "command": "npx",
-      "args": ["-y", "@three-ws/scene-mcp"]
-    }
-  }
-}
